@@ -26,7 +26,7 @@ for k,desc in [('hour','Hour of day'),('weekday','ISO weekday'),('month','Month'
  save(k+'.png',desc+' seasonality, average accepted trips per day',desc,'Trips per day')
 z=data['zones']
 for name,d in [('top_zones',z.head(10).iloc[::-1]),('bottom_zones',z.sort_values(['trips','zone_id']).head(10).iloc[::-1])]:
- plt.figure(figsize=(9,5.3)); plt.barh(d.zone,d.trips,color='#2563eb'); save(name+'.png',name.replace('_',' ').title()+', full-year pickups','Accepted trips','Pickup zone')
+ plt.figure(figsize=(9,5.3)); plt.barh(d.zone_id.astype(str)+' | '+d.zone,d.trips,color='#2563eb'); save(name+'.png',name.replace('_',' ').title()+', full-year pickups','Accepted trips','Pickup zone ID | name')
 d=z.sort_values('charges',ascending=False).head(10).iloc[::-1]; plt.figure(figsize=(9,5.3)); plt.barh(d.zone,d.charges/1e6,color='#0f766e'); save('charges.png','CR-1: largest toll and surcharge amounts by pickup zone','USD millions','Pickup zone')
 summary={'peak_hour':int(data['hour'].loc[data['hour'].trips.idxmax(),'bucket']), 'peak_weekday_iso':int(data['weekday'].loc[data['weekday'].trips.idxmax(),'bucket']), 'top_zone':z.iloc[0].zone,'top_zone_trips':int(z.iloc[0].trips),'zero_trip_zones':int((z.trips==0).sum())}
 (OUT/'analysis_summary.json').write_text(json.dumps(summary,indent=2)); print(summary)
