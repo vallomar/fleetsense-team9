@@ -4,7 +4,7 @@ Owner: Omar Ahmed Mohamed. Prepared 23 November 2026.
 
 ## Status
 
-This is real code and analysis over all twelve 2025 NYC TLC yellow-taxi files. It is **not a complete internship submission**. The hospital-booking requirement is blocked because yellow-taxi data has no booking-channel field. All real records remain `unknown`, never guessed from location, payment type, rate code or vendor. No mentor message or peer review has been sent. Deployment, personal videos and final report are still pending.
+This is real code and analysis over all twelve 2025 NYC TLC yellow-taxi files. It is **not a complete internship submission**. The hospital-booking requirement is blocked because yellow-taxi data has no booking-channel field. All real records remain `unknown`, never guessed from location, payment type, rate code or vendor. The approved Week 3 mentor update is sent. Two approved inline peer-review comments are posted on Team No 2 PR #6, and LogicVeda records 1/1 reviewed. Deployment, personal videos and final report are still pending.
 
 ## Run
 
