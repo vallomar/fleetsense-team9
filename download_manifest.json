@@ -1,0 +1,80 @@
+[
+  {
+    "file": "taxi_zone_lookup.csv",
+    "bytes": 12331,
+    "sha256": "1a99e105092230f8620f301edcca7f80d3080642ff404d28ed957d3fa222c8ed",
+    "url": "https://d37ci6vzurychx.cloudfront.net/misc/taxi_zone_lookup.csv"
+  },
+  {
+    "file": "yellow_tripdata_2025-01.parquet",
+    "bytes": 59158238,
+    "sha256": "9af277e4c0d3f9deb30644da822981e1e7df6af58313170fd3aa8a474485488a",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-01.parquet"
+  },
+  {
+    "file": "yellow_tripdata_2025-02.parquet",
+    "bytes": 60343086,
+    "sha256": "037cba555a73663f3a51a2c27816e40e3feb364769942bdf122b9da31e377bd3",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-02.parquet"
+  },
+  {
+    "file": "yellow_tripdata_2025-03.parquet",
+    "bytes": 69964745,
+    "sha256": "20c4b77cce457b7cfdae77c5069ca7dc91c167f876a41467f4502ab69487a186",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-03.parquet"
+  },
+  {
+    "file": "yellow_tripdata_2025-04.parquet",
+    "bytes": 67352824,
+    "sha256": "6f98938de9380a3f85600533816f0dc0e6d9b5b210e485d623952bac599bbe28",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-04.parquet"
+  },
+  {
+    "file": "yellow_tripdata_2025-05.parquet",
+    "bytes": 77837865,
+    "sha256": "7ef46bcd0fceee7f8c0bb38a532be05bceefabb512d4bb0b32a7727dd862b15c",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-05.parquet"
+  },
+  {
+    "file": "yellow_tripdata_2025-06.parquet",
+    "bytes": 73542954,
+    "sha256": "1bea7f5b09c744414451fa7fef09fbc5a393ffb1621c859be6ba0df23a14e1b6",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-06.parquet"
+  },
+  {
+    "file": "yellow_tripdata_2025-07.parquet",
+    "bytes": 66943728,
+    "sha256": "1efa6a0458dc60341f7f81dcbb5015af731f42d1a109f4e0d594dd46970fd4ef",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-07.parquet"
+  },
+  {
+    "file": "yellow_tripdata_2025-08.parquet",
+    "bytes": 62293743,
+    "sha256": "b982ace703e3564d92e94edae5ec93515f4f1fb07a5b95e7404c32464c1a6a89",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-08.parquet"
+  },
+  {
+    "file": "yellow_tripdata_2025-09.parquet",
+    "bytes": 72432945,
+    "sha256": "cd39b9901f01d1fd752d45cbaec91ee5f68c4dddf9e261e938c1dbab404644c7",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-09.parquet"
+  },
+  {
+    "file": "yellow_tripdata_2025-10.parquet",
+    "bytes": 75267589,
+    "sha256": "e1f63caf331bc6230d9c6f757cb88e55fdc2bddde185fb414d2c947abdc773c3",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-10.parquet"
+  },
+  {
+    "file": "yellow_tripdata_2025-11.parquet",
+    "bytes": 71134255,
+    "sha256": "2cf2f3127f96d4d5dea30f8afe05119cf8e4ba57bd9e60b789d3f296fc8459ab",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-11.parquet"
+  },
+  {
+    "file": "yellow_tripdata_2025-12.parquet",
+    "bytes": 73701327,
+    "sha256": "eaba7ff61ebb6453fc6f673fda43d621380307f869b768b124992e8486c785e1",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-12.parquet"
+  }
+]

@@ -1,3 +1,4 @@
+-- by_zone: trips, booking-channel counts and CR-1 revenue per pickup zone (accepted records).
 SELECT zone_id, 
 count(*) AS trips,
 count(*) FILTER (WHERE booking_channel='hospital_booked') AS hospital_booked_trips,
