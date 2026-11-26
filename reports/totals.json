@@ -1,0 +1,12 @@
+{
+  "trips": 35759618,
+  "hospital_booked_trips": 0,
+  "street_hail_trips": 0,
+  "unknown_channel_trips": 35759618,
+  "revenue_with_charges": "1061002515.85",
+  "revenue_without_charges": "841275900.12",
+  "charges": "219726615.73",
+  "average_metered_fare": 19.927559802792075,
+  "average_duration_minutes": 17.311974459103794,
+  "occupied_trip_hours_proxy": 10317826.558055138
+}

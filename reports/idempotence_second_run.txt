@@ -1,0 +1,14 @@
+Second run: 0 new source files; 0 new rows added.
+Row counts unchanged: 48,722,602 source; 35,759,618 loaded; 12,962,984 quarantined.
+('yellow_tripdata_2025-01.parquet', 3475226, 2873591, 601635)
+('yellow_tripdata_2025-02.parquet', 3577543, 2710404, 867139)
+('yellow_tripdata_2025-03.parquet', 4145257, 3137783, 1007474)
+('yellow_tripdata_2025-04.parquet', 3970553, 3117694, 852859)
+('yellow_tripdata_2025-05.parquet', 4591845, 3253440, 1338405)
+('yellow_tripdata_2025-06.parquet', 4322960, 2967765, 1355195)
+('yellow_tripdata_2025-07.parquet', 3898963, 2727745, 1171218)
+('yellow_tripdata_2025-08.parquet', 3574091, 2562458, 1011633)
+('yellow_tripdata_2025-09.parquet', 4251015, 3048179, 1202836)
+('yellow_tripdata_2025-10.parquet', 4428699, 3301425, 1127274)
+('yellow_tripdata_2025-11.parquet', 4181444, 3056415, 1125029)
+('yellow_tripdata_2025-12.parquet', 4305006, 3002719, 1302287)

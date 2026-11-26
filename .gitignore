@@ -1,0 +1,7 @@
+data/
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+*.pyc
+existing_ingestion_reference.py
